@@ -1,0 +1,82 @@
+<html>
+
+<head>
+    <title>Moja prva web stranica</title>
+    <link rel="stylesheet" href="stilovi.css"/>
+</head>
+
+<body>
+    <h1>Moja prva Web stranica</h1>
+
+    <!-- Ovo je komentar VEKIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII-->
+    <p class="boja">
+        Zovem se <strong>Martinelli</strong> i tu sam da dribljam.
+    </p>
+
+    <div style="font-size: xx-large;">
+        <span>Volim</span>
+        <ul>
+            <li>Jesti pizzu</li>
+            <li>Trčati</li>
+            <li>Voziti bicikl</li>
+        </ul>
+    </div>
+
+    <a href="druga.html">Vodi me na drugu stranicu</a>
+    <a href="http://www.obskc.hr">Stranica skole</a>
+
+    <div>
+        <h3>Testiranje oblika teksta</h3>
+        <ol>
+            <li><b>Podebljani tekst</b></li>
+            <li><i>Ukošeni tekst</i></li>
+            <li><strong>Podebljani tekst</strong></li>
+            <li><em>Ukošeni tekst</em></li>
+            <li>Ovo je<small>smanjeni</small>tekst</li>
+            <li><del>ovo je pogrežćka</del></li>
+            <li><ins>Ovo je ubačeni tekst</ins></li>
+            <li>x<sup>2</sup>+ y<sub>1</sub></li>
+        </ol>
+    </div>
+
+     <blockquote> ž
+
+        <cite>U srijedu 2. listopada 2024. g. obilježit ćemo 15. godišnjicu provođenja europskih projekata mobilnosti u Obrtničkoj školi Koprivnica.</cite>
+
+     </blockquote>
+
+     <q>15 GODINA EUROPSKIH PROJEKATA MOBILNOSTI</q>
+
+     <br/><br/>
+
+     <abbr>W3C</abbr> je organizacija koja upravlja standardima <abbr title="World Wide Web">
+     WWW</abbr> usluge.
+
+     <address>
+        <br/>OBSKC<br/>
+        Trg Slobode 7<br/>
+        48000 Koprivnica<br/>
+     </address>
+
+     <p>
+        Jučer sam gledao film <cite>Brzi i žestoki</cite> u kojem glumi Vin Diesel
+     </p>
+
+     <p>
+        <bdo dir="rtl">Odmor počinje u 10:50</bdo>
+     </p>
+
+     <p>
+        Moj <span style="background-color: hsl(hue, saturation, lightness)">označeni</span> tekst
+     </p>
+
+     <img src="jug.jpg" alt="slika juga" style="width: 50%;" />
+
+
+
+
+</body>
+
+
+
+</html>
